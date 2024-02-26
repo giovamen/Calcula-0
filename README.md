@@ -1,2 +1,2 @@
-# Calcula-0
-creando calcularora
+# Calculadora
+![Design preview for the calculadora](./desing/calcula.png)
